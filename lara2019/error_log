@@ -1,0 +1,1 @@
+[06-Apr-2019 09:43:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/asrainbo/public_html/usta.asrainbow.uz/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 42
